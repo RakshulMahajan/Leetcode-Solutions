@@ -31,8 +31,6 @@ public:
         int j=s1.size()-1;
         int k=s2.size()-1;
 
-        cout<<s1.size()<<" "<<s2.size()<<endl;
-
         while(i<s1.size() && s1[i]==s2[i])
             i++;
         
