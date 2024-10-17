@@ -32,8 +32,9 @@ public:
             ntemp = ntemp->next;
             ans--;
         }
-            
-        }
+           
+    }
+        
     return ntemp;
     }
 };
